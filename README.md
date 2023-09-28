@@ -18,6 +18,6 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ds-roshan&theme=dark&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Mon%2CTue%2CWed%2CThu%2CFri)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ds-roshan&theme=dark&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Mon%2CTue%2CWed%2CThu%2CFri)](https://git.io/streak-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ds-roshan&show_icons=true&theme=radical)
