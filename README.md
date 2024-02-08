@@ -22,5 +22,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ds-roshan&theme=dark)](https://git.io/streak-stats)
 
+---
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ds-roshan&show_icons=true&theme=radical) -->
+[![GitHub stats](https://github-readme-stats-roshans-projects-8a8a6e52.vercel.app/api?username=ds-roshan&show_icons=true&theme=radical)
