@@ -24,4 +24,4 @@
 
 ---
 
-[![GitHub stats](https://github-readme-stats-roshans-projects-8a8a6e52.vercel.app/api?username=ds-roshan&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats-roshans-projects-8a8a6e52.vercel.app/api?username=ds-roshan&show_icons=true&theme=radical)
