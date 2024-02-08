@@ -25,3 +25,5 @@
 ---
 
 ![GitHub stats](https://github-readme-stats-roshans-projects-8a8a6e52.vercel.app/api?username=ds-roshan&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats-roshans-projects-8a8a6e52.vercel.app/api/top-langs/?username=ds-roshan&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
