@@ -22,6 +22,6 @@
 
 [![GitHub Streak](https://roshan-github-streak-efeb4aff3375.herokuapp.com?user=ds-roshan&theme=radical&border_radius=1&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-![GitHub stats](https://roshan-readme-stats.vercel.app/api?username=ds-roshan&show_icons=true&show=prs_merged_percentage&hide=stars,issues&theme=radical)
+<!-- ![GitHub stats](https://roshan-readme-stats.vercel.app/api?username=ds-roshan&show_icons=true&show=prs_merged_percentage&hide=stars,issues&theme=radical) -->
 
-<!-- ![Top Langs](https://roshan-readme-stats.vercel.app/api/top-langs/?username=ds-roshan&layout=compact) -->
+![Top Langs](https://roshan-readme-stats.vercel.app/api/top-langs/?username=ds-roshan&layout=compact)
