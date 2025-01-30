@@ -24,4 +24,4 @@
 
 <!-- ![GitHub stats](https://roshan-readme-stats.vercel.app/api?username=ds-roshan&show_icons=true&show=prs_merged_percentage&hide=stars,issues&theme=radical) -->
 
-<!-- ![Top Langs](https://roshan-readme-stats.vercel.app/api/top-langs/?username=ds-roshan&layout=compact) -->
+![Top Langs](https://roshan-readme-stats.vercel.app/api/top-langs/?username=ds-roshan&layout=compact)
