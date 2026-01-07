@@ -1,27 +1,63 @@
-### Languages and Tools
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" **alt="Typescript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" title="Yarn" alt="Yarn" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="Xcode" alt="Xcode" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Code" alt="Ccode" width="40" height="40"/>&nbsp;
-</div>
+![Header](https://placehold.co/1200x300?text=Roshan+Lamichhane+%7C+Senior+iOS+Engineer)
+
+# Hi, I'm Roshan Lamichhane 👋
+
+Senior iOS Engineer with 8+ years of experience building and shipping high-quality iOS apps using **Swift**, **UIKit**, and **SwiftUI**. I enjoy turning ideas into polished mobile experiences, improving delivery pipelines, and writing clean, testable code with strong architecture.
+
+## What I’m up to right now
+
+- 🌱 Building iOS apps with **Swift / SwiftUI / UIKit** and modern patterns like **MVVM** and **VIPER**
+- 🧩 Focused on **modular architecture**, **dependency injection**, and performance-minded development
+- 🚀 Improving release quality through **testing** and **CI/CD** (Bitrise, TestFlight)
+- 🤝 Mentoring developers, doing code reviews, and collaborating in Agile/Scrum teams
+
+## Experience snapshot
+
+- **Senior iOS Developer — 3Advance** (Remote, Washington D.C.) | *Jan 2022 – Dec 2024*  
+- **Senior iOS Developer — Code Comma Technology** (Kathmandu) | *Jul 2020 – Dec 2021*  
+- **Senior iOS Developer — Techinherit** (Kathmandu) | *Jun 2018 – Jul 2020*  
+- **iOS Developer — Devluk Technologies** (Kathmandu) | *Jan 2017 – Jun 2018*  
+
+## Education
+
+- 🎓 **Bachelor of Science in Information Technology (BSIT)** — **Westcliff University**  
+  *2022 – 2026*
+
+## Skills
+
+**Mobile**
+- Swift, UIKit, SwiftUI, Core Data, SwiftData, Swift Concurrency
+
+**Architecture & Patterns**
+- MVVM, VIPER, Modular Architecture, Dependency Injection
+
+**Networking & Data**
+- REST, GraphQL, JSON parsing, Offline support, Error handling
+
+**Testing & Delivery**
+- XCTest, Swift Testing, TestFlight, CI/CD (Bitrise/Xcode Cloud)
+
+**Tools & Services**
+- Git, SPM, CocoaPods, Firebase, AppSync, Postman, Analytics, Crashlytics, LogRocket
+
+**Cross-platform**
+- React Native, TypeScript
+
+**Backend**
+- Golang
+
+## Find me online
+
+- LinkedIn: https://linkedin.com/in/roshanlamichhane
 
 ---
 
-### :fire: My Stats :
-
-[![GitHub Streak](https://roshan-github-streak-efeb4aff3375.herokuapp.com?user=ds-roshan&theme=radical&border_radius=1&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-<!-- ![GitHub stats](https://roshan-readme-stats.vercel.app/api?username=ds-roshan&show_icons=true&show=prs_merged_percentage&hide=stars,issues&theme=radical) -->
-
+### My Stats (Based on repositories) :
 ![Top Langs](https://roshan-readme-stats.vercel.app/api/top-langs/?username=ds-roshan&layout=compact)
+
+---
+
+### A little more about me
+
+- I care about **clean architecture**, **reusability**, and **business-driven code**
+- I like building dependable apps that feel fast, stable, and intuitive
